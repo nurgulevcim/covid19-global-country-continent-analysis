@@ -30,21 +30,15 @@ Analizde günlük COVID-19 verileri kullanılmıştır. Veri temizleme ve ön i�
 - Ölüm oranı, iyileşme oranı ve nüfus başına vaka göstergeleri türetilmiştir.
 
 ### Türetilen Göstergeler
+  
+**Fatality Rate**  
+  `Fatality Rate = Deaths / Confirmed`
 
-**Ölüm Oranı (Fatality Rate)**  
-\[
-Fatality\ Rate = \frac{Deaths}{Confirmed}
-\]
+- **Recovery Rate**  
+  `Recovery Rate = Recovered / Confirmed`
 
-**İyileşme Oranı (Recovery Rate)**  
-\[
-Recovery\ Rate = \frac{Recovered}{Confirmed}
-\]
-
-**Milyon Kişi Başına Vaka Sayısı (Cases per Million)**  
-\[
-Cases\ per\ Million = \frac{Confirmed}{Population} \times 10^6
-\]
+- **Cases per Million**  
+  `Cases per Million = (Confirmed / Population) × 1,000,000`
 
 Analiz süreci; betimsel istatistikler, sıralama analizleri, kıtasal karşılaştırmalar ve korelasyon analizlerinden oluşmaktadır.
 
