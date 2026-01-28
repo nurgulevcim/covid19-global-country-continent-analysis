@@ -31,13 +31,13 @@ Analizde günlük COVID-19 verileri kullanılmıştır. Veri temizleme ve ön i�
 
 ### Türetilen Göstergeler
   
-- **Fatality Rate**  
+- **Ölüm Oranı (Fatality Rate)**  
   `Fatality Rate = Deaths / Confirmed`
 
-- **Recovery Rate**  
+- **İyileşme Oranı (Recovery Rate)**  
   `Recovery Rate = Recovered / Confirmed`
 
-- **Cases per Million**  
+- **Milyon Kişi Başına Vaka Sayısı (Cases per Million)**  
   `Cases per Million = (Confirmed / Population) × 1,000,000`
 
 Analiz süreci; betimsel istatistikler, sıralama analizleri, kıtasal karşılaştırmalar ve korelasyon analizlerinden oluşmaktadır.
