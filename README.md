@@ -31,7 +31,7 @@ Analizde günlük COVID-19 verileri kullanılmıştır. Veri temizleme ve ön i�
 
 ### Türetilen Göstergeler
   
-**Fatality Rate**  
+- **Fatality Rate**  
   `Fatality Rate = Deaths / Confirmed`
 
 - **Recovery Rate**  
